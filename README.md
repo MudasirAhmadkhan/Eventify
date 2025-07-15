@@ -1,2 +1,2 @@
 # Eventify
-Eventify Mobile Application Bug Report
+Eventify Mobile Application 
